@@ -2,6 +2,23 @@
 
 ---
 
+## 🔍 Project Overview
+
+This project transforms raw patient health data into actionable insights for early detection of cardiovascular disease risk.
+
+- Developed an end-to-end healthcare analytics pipeline using Python and SQL  
+- Cleaned and processed patient health data (cholesterol, blood pressure, age)  
+- Integrated PostgreSQL for structured data storage and querying  
+- Analyzed medical data to identify key risk factors and correlations  
+- Built an interactive Power BI dashboard for monitoring patient risk levels
+
+### 📊 Key Insights
+- Identified ~46% of patients as high-risk, highlighting the need for early intervention  
+- Found strong correlation between cholesterol levels and blood pressure  
+- Detected higher risk among patients aged 50–60 years  
+
+---
+
 ## 🎯 Business Objective
 
 This project aims to transform raw patient health data into actionable insights for **early detection of cardiovascular disease risk**.
@@ -55,7 +72,7 @@ Due to GitHub file size limitations, only processed/sample data may be included 
 
 ---
 
-## 💡 Key Insights
+## 📈 Detailed Insights
 
 Based on the analysis and dashboard:
 
