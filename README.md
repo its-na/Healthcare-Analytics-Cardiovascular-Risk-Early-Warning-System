@@ -72,15 +72,7 @@ Based on the analysis and dashboard:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](reports/images/Healthcare Analytics.jpg)
-
----
-
-## 📥 Power BI Dashboard
-
-If the `.pbix` file is not included due to size limitations, you can download it here:
-
-👉 [Download Power BI Dashboard](#)
+![Dashboard](reports/images/HealthcareAnalytics.jpg)
 
 ---
 
