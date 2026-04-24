@@ -9,6 +9,7 @@ dependencies = [
     "matplotlib>=3.10.8",
     "pandas>=2.3.3",
     "psycopg2-binary>=2.9.12",
+    "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "sqlalchemy>=2.0.49",
 ]
