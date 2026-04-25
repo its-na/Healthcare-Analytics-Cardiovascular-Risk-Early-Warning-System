@@ -47,7 +47,7 @@ The dashboard provides:
 The dataset used in this project is publicly available and sourced from Kaggle.
 - **Dataset Name:** Heart Disease Dataset  
 - **Source:** Kaggle  
-- **Link:** https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset  
+- **Link:** [Healthcare Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) 
 - **Note:** Only processed/sample data may be included in this repository.
 ---
 ## ⚙️ Project Structure
