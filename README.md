@@ -123,5 +123,5 @@ portfolio_kesehatan/
 
 ## 📬 Contact
 
-* GitHub: https://github.com/its-na
+* LinkedIn: https://www.linkedin.com/in/alfin-syahrina
 * Email: [alfinsyahrinafina@gmail.com](mailto:your_email@example.com)
