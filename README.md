@@ -1,101 +1,56 @@
-# 🏥 Healthcare Analytics: Cardiovascular Risk Early Warning System
-
----
+# 🏥 Healthcare Analytics – Cardiovascular Risk Prediction Dashboard
 
 ## 🔍 Project Overview
-
-This project transforms raw patient health data into actionable insights for early detection of cardiovascular disease risk.
-
-- Developed an end-to-end healthcare analytics pipeline using Python and SQL  
-- Cleaned and processed patient health data (cholesterol, blood pressure, age)  
-- Integrated PostgreSQL for structured data storage and querying  
-- Analyzed medical data to identify key risk factors and correlations  
-- Built an interactive Power BI dashboard for monitoring patient risk levels
-
-### 📊 Key Insights
-- Identified ~46% of patients as high-risk, highlighting the need for early intervention  
-- Found strong correlation between cholesterol levels and blood pressure  
-- Detected higher risk among patients aged 50–60 years  
-
+This project develops an end-to-end healthcare analytics pipeline to identify patients at high risk of cardiovascular disease and support early intervention strategies.
+- Built a complete data pipeline (CSV → PostgreSQL → Python → Power BI)  
+- Cleaned and processed patient data (cholesterol, blood pressure, age)  
+- Performed data analysis to identify key health risk factors  
+- Developed an interactive Power BI dashboard to monitor patient risk levels  
 ---
-
-## 🎯 Business Objective
-
-This project aims to transform raw patient health data into actionable insights for **early detection of cardiovascular disease risk**.
-
-The main objectives include:
-
-* **Data Integrity**
-  Cleaning and preprocessing patient data, handling missing values and inconsistencies from the original dataset.
-
-* **Risk Identification**
-  Identifying high-risk patients based on key health indicators such as cholesterol, blood pressure, and age.
-
-* **Health Insight Generation**
-  Discovering patterns and correlations between medical variables to support preventive healthcare decisions.
-
+## 📊 Key Insights
+- ~46% of patients identified as high-risk → indicates urgent need for preventive intervention  
+- Strong correlation between cholesterol levels and blood pressure  
+- Highest risk observed in patients aged 50–60 years  
 ---
-
+## 💡 Business Impact
+- Supports early detection of cardiovascular risk using data-driven insights  
+- Helps healthcare providers prioritize high-risk patients for preventive care  
+- Enables better decision-making based on patient risk segmentation  
+---
 ## 🛠️ Tech Stack
-
-* **Language:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-* **Database:** PostgreSQL (Data storage & SQL querying)
-* **Environment:** uv (Modern dependency & environment management)
-* **Analysis:** Jupyter Notebook
-* **Visualization:** Power BI (Interactive Dashboard)
-* **Version Control:** Git
-
+- **Language:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Database:** PostgreSQL  
+- **Analysis:** Jupyter Notebook  
+- **Visualization:** Power BI  
+- **Version Control:** Git  
 ---
-
 ## 🔄 Data Pipeline
-
-This project implements a simple end-to-end data workflow:
-
-1. Raw dataset obtained in **CSV format from Kaggle**
-2. Data imported into **PostgreSQL**
-3. Data queried using **SQL**
-4. Processed using **Python (Pandas)**
-5. Visualized using **Power BI**
-
-This pipeline simulates a real-world data workflow beyond basic CSV analysis.
-
+This project implements a real-world healthcare data workflow:
+1. Raw dataset obtained from Kaggle in CSV format  
+2. Data stored and queried in PostgreSQL  
+3. Data cleaned and analyzed using Python (Pandas)  
+4. Insights visualized using Power BI dashboard  
 ---
-
-## 📂 Dataset Information
-
-The dataset used in this project is publicly available on Kaggle:
-
-* **Heart Disease Dataset**
-  https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
-
-Due to GitHub file size limitations, only processed/sample data may be included in this repository.
-
----
-
-## 📈 Detailed Insights
-
-Based on the analysis and dashboard:
-
-* **High-Risk Population**
-  Approximately **46% of patients are classified as high risk**, indicating a significant need for early intervention.
-
-* **Health Correlation**
-  A strong relationship exists between **high cholesterol and blood pressure**, which are key contributors to cardiovascular risk.
-
-* **Age Factor**
-  Patients aged **50–60 years** show a significantly higher risk level compared to other age groups.
-
----
-
 ## 📊 Dashboard Preview
-
-![Dashboard](reports/images/HealthcareAnalytics.jpg)
-
+![Healthcare Dashboard](reports/images/HealthcareAnalytics.jpg)
+The dashboard provides:
+- Patient risk classification  
+- Key health indicators (cholesterol, blood pressure, age)  
+- Risk distribution across patient groups  
 ---
-
+## 📈 Detailed Insights
+- **High-Risk Population:** ~46% of patients classified as high-risk  
+- **Health Correlation:** Strong relationship between cholesterol and blood pressure  
+- **Age Factor:** Patients aged 50–60 years show significantly higher risk levels  
+---
+## 📂 Dataset
+The dataset used in this project is publicly available and sourced from Kaggle.
+- **Dataset Name:** Heart Disease Dataset  
+- **Source:** Kaggle  
+- **Link:** https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset  
+- **Note:** Only processed/sample data may be included in this repository.
+---
 ## ⚙️ Project Structure
-
-```bash id="gq6k6c"
 portfolio_kesehatan/
 ├── data/
 ├── notebooks/
@@ -108,20 +63,13 @@ portfolio_kesehatan/
 ├── uv.lock
 ├── .gitignore
 └── README.md
-```
-
 ---
-
 ## 🚀 Project Highlights
-
-* Implements a **realistic data pipeline (CSV → PostgreSQL → SQL → Python → Power BI)**
-* Uses **modern Python environment (uv)** instead of traditional pip
-* Applies **clean code practices** with modular structure (`src/`)
-* Focuses on **business-oriented insights**, not just technical analysis
-
+- Implements an end-to-end data pipeline (CSV → PostgreSQL → Python → Power BI)  
+- Applies data cleaning, analysis, and visualization in a healthcare context  
+- Focuses on actionable insights for early disease risk detection  
+- Uses modular and structured project organization  
 ---
-
 ## 📬 Contact
-
-* LinkedIn: https://www.linkedin.com/in/alfin-syahrina
-* Email: [alfinsyahrinafina@gmail.com](mailto:your_email@example.com)
+- **LinkedIn:** https://www.linkedin.com/in/alfin-syahrina  
+- **Email:** alfinsyahrinafina@gmail.com
